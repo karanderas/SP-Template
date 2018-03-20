@@ -84,7 +84,7 @@
 </SharePoint:SPSecurityTrimmedControl>
 
 <!-- ****************************************************
-    o365 TOOL Bar with Waffle icon                
+    Grey Bar with Waffle icon at the top                
 ***************************************************** --> 
 <SharePoint:AuthenticatedUserDiv runat="server" ClientIDMode="static" Id="authWrapper" AuthenticatedStyle="ms-belltown-authenticated">
 <SharePoint:AjaxDelta runat="server" id="suiteBarDelta" BlockElement="true" CssClass="ms-dialogHidden ms-fullWidth noindex">
